@@ -28,6 +28,9 @@ namespace TestGithubConnection
             Console.WriteLine("Hit SYNC.");
             Console.WriteLine("Come to new window (Synchronization?) with Outgoing Commits and 'Push'.");
             Console.WriteLine("Hit Push and it goes up to Github.");
+            Console.WriteLine(" ");
+            Console.WriteLine("This time, after Commit All, I went TeamExploerer -> Home -> Sync");
+            Console.WriteLine("Then SYNC.. and that SEEMED to be all it took to send it to Github.");
             Console.ReadKey();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
